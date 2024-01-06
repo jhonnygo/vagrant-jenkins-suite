@@ -14,7 +14,7 @@ Para lograr esto se ha creado un box que levanta un conjunto de tres maquinas vi
 * vm3 - Servidor PRO **(jt-pro-01)**
 
 <div align="left">
-    <img src="img/virtualbox.jpg?raw=true" alt="Virtualbox" />
+    <img src="img/virtualbox.jpg?raw=true" alt="Virtualbox" width="500px" />
 </div>
 
 Lo anterior nos permitira mediante el uso de Jenkins realizar pruebas de CI/CD utilizando dicha herramienta.
